@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="powerbi/Dashboard.png" alt="Banner" width="720">
+    <img src="powerBI/Dashboard.png" alt="Banner" width="720">
   </a>
 
   <div id="user-content-toc">
@@ -66,7 +66,7 @@ Will update the dataset with medals(gold, silver, bronze), more details about th
 - 🏃‍♂️🏃‍♀️ **Number Of Participating Atheletes**
   - *Atheletics* is the top number 1 of Atheletes participate with 2068 followed by *Swimming* with 743 and *Football* with 567.
  
-- 💸 **Number of medals by country**
+- 🗺️ **Number of medals by country**
   - **Top 1:** United States of America have the most total medals with 113.
   - **Top 2:** People's Republic of China have the most total medals with 88.
   - **Top 3:** ROC have the most total medals with 71.
@@ -113,7 +113,7 @@ You can find the detailed information on the diagram below:
 ### 📊 Data Reporting
 - Connected Microsoft Power BI to Azure Synapse, and used the Views of the DB to create interactive and insightful data visualizations.
 
-![PowerBI-dashboard](powerbi/Dashboard.png)
+![PowerBI-dashboard](powerBI/Dashboard.png)
 
 ### 🛠️ Technologies Used
 
